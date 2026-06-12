@@ -13,6 +13,10 @@ on:
     branches:
     - main
 
+# THIS IS THE CRITICAL FIX: Grants the action permission to push to the output branch
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -28,7 +32,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4 # Updated to v4 to fix the Node.js warning
         with:
           target_branch: output
           build_dir: dist
