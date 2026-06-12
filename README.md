@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0E4429,006D32,26A641,39D353&height=250&section=header&text=Prasanna%20Dolas&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=A7766E,936159,7E4C44&height=250&section=header&text=Prasanna%20Dolas&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Wave" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Product+Engineering;AI+%26+ML+Specialist+%7C+Agentic+Workflows;Full+Stack+Developer+%7C+Scalable+Architecture;BSc+IT+Graduate+%7C+Continuous+Innovator" alt="Typing SVG" />
+ <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=800&lines=Web+Engineer+%7C+AI+Developer;Architecting+the+Web+%7C+Training+the+AI;Software+Developer+%7C+Systems+that+Think;Building+Intelligent+Digital+Products" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,8 +15,8 @@
 
 <div align="center">
   <a href="https://prasannadolas.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-prasannadolas.vercel.app-39D353?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/prasannadolas"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-26A641?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:prasanna.dolas@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-006D32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="[https://linkedin.com/in/prasannadolas](https://www.linkedin.com/in/prasanna-dolas-b872aa328/)"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-26A641?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:prasannadolas2683@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-006D32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/prasannadolas"><img src="https://img.shields.io/badge/GitHub-Code%20Repositories-0E4429?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 <br/>
@@ -28,7 +29,7 @@
 
 ---
 
-## ✦ About
+## About
 
 > **Engineering scalable solutions through intelligent systems and full-stack product development.**
 
@@ -42,7 +43,7 @@ I am a Software Engineer and recent BSc Information Technology graduate (2026, S
 
 ---
 
-## ✦ Tech Stack
+## Tech Stack
 
 **Languages**
 <p align="left">
@@ -54,14 +55,14 @@ I am a Software Engineer and recent BSc Information Technology graduate (2026, S
 **Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind," alt="Frontend" />
   </a>
 </p>
 
 **Backend & Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" alt="Backend" />
   </a>
 </p>
 
@@ -74,18 +75,7 @@ I am a Software Engineer and recent BSc Information Technology graduate (2026, S
 
 ---
 
-## ✦ AI / ML Expertise
-
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Agentic Workflows** | Advanced | Autonomous agents using Google Agent Development Kit (ADK). |
-| **Large Language Models** | Advanced | API integration, prompt engineering, and fine-tuning with Google Gemini. |
-| **RAG Systems** | Intermediate | Retrieval-Augmented Generation for dynamic, context-aware AI applications. |
-| **Data Processing** | Intermediate | Python ecosystem (Pandas, NumPy) for parsing and restructuring datasets. |
-
----
-
-## ✦ GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prasannadolas&show_icons=true&bg_color=0D1117&title_color=39D353&text_color=E6FFED&icon_color=26A641&border_color=006D32" height="195" alt="GitHub Stats" />
@@ -98,7 +88,7 @@ I am a Software Engineer and recent BSc Information Technology graduate (2026, S
 
 ---
 
-## ✦ GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prasannadolas&theme=matrix&margin-w=15&margin-h=15&no-frame=true&column=6&no-bg=true" alt="Trophies" />
@@ -106,7 +96,7 @@ I am a Software Engineer and recent BSc Information Technology graduate (2026, S
 
 ---
 
-## ✦ Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannadolas&bg_color=0D1117&color=E6FFED&line=26A641&point=39D353&area=true&hide_border=true" width="100%" alt="Activity Graph" />
@@ -114,7 +104,7 @@ I am a Software Engineer and recent BSc Information Technology graduate (2026, S
 
 ---
 
-## ✦ Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/prasannadolas/prasannadolas/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
