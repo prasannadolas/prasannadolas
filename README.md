@@ -20,11 +20,6 @@
 </div>
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasannadolas&color=A7766E&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/prasannadolas?color=936159&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/prasannadolas?color=C2938B&style=for-the-badge&label=STARS" alt="Stars" />
-</div>
 
 ---
 
@@ -47,7 +42,7 @@ I am a Software Engineer and recent BSc Information Technology graduate (2026, S
 **Languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,html,css,bash" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css," alt="Languages" />
   </a>
 </p>
 
@@ -83,14 +78,6 @@ I am a Software Engineer and recent BSc Information Technology graduate (2026, S
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasannadolas&background=0D1117&ring=A7766E&fire=C2938B&currStreakLabel=F5EBE9&border=936159" alt="GitHub Streak" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasannadolas&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true&column=6&no-bg=true" alt="Trophies" />
 </div>
 
 ---
