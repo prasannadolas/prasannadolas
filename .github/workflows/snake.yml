@@ -13,7 +13,6 @@ on:
     branches:
     - main
 
-# THIS IS THE CRITICAL FIX: Grants the action permission to push to the output branch
 permissions:
   contents: write
 
@@ -27,12 +26,13 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # THIS IS THE CHANGED SECTION: Custom orange colors added here!
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=orange&color_dots=#0D1117,#4b2c26,#7E4C44,#936159,#A7766E
             
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4 # Updated to v4 to fix the Node.js warning
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
