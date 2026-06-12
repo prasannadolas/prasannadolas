@@ -1,306 +1,262 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=260&section=header&text=Prasanna%20Dolas&fontSize=54&fontAlignY=40&desc=AI%20%26%20Software%20Developer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Agentic%20Systems%20%7C%20Full-Stack%20Engineering&descAlignY=62&fontColor=EDE9FE&color=0:0B1020,100:1E1B4B&animation=fadeIn" alt="header"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,9370DB&height=250&section=header&text=Prasanna%20Dolas&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Wave" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Product+Engineering;AI+%26+ML+Specialist+%7C+Agentic+Workflows;Full+Stack+Developer+%7C+Scalable+Architecture;BSc+IT+Graduate+%7C+Continuous+Innovator" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Education-BSc%20IT%20(2026)-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Mumbai,%20India-4B0082?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
+</div>
+<br/>
+
+<div align="center">
+  <a href="https://prasannadolas.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-prasannadolas.vercel.app-9370DB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/prasannadolas"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:prasanna.dolas@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/prasannadolas"><img src="https://img.shields.io/badge/GitHub-Code%20Repositories-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasannadolas&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/prasannadolas?color=4B0082&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/prasannadolas?color=9370DB&style=for-the-badge&label=STARS" alt="Stars" />
+</div>
+
+---
+
+## ✦ About
+
+> **Engineering scalable solutions through intelligent systems and full-stack product development.**
+
+I am a Software Engineer and recent BSc Information Technology graduate (2026, Sathaye College, Mumbai University) with a profound focus on **Artificial Intelligence, Machine Learning, and Agentic Workflows**. I bridge the gap between complex AI models and user-facing applications by employing a product-engineering mindset. My expertise spans across full-stack development, distributed systems, and cutting-edge GenAI integrations, allowing me to build comprehensive, end-to-end digital experiences.
+
+- 🔭 **Current Focus:** Building autonomous AI systems using Google Agent Development Kit and Gemini API.
+- 💡 **Engineering Mindset:** Emphasizing code quality, architectural scalability, and zero-downtime deployments.
+- ⚡ **Beyond Code:** Exploring film production, music creation (FL Studio), and digital storytelling, bringing creative problem-solving to software architecture.
+
+**Open To:** Full-time Software Engineering roles, AI/ML Engineering positions, and collaborative Open-Source projects.
+
+---
+
+## ✦ Tech Stack
+
+**Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,html,css,bash" alt="Languages" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+Developer+%7C+LLMs%2C+RAG+%26+Agentic+Systems;Full-Stack+Engineer+with+Product+Mindset;Building+Scalable%2C+Production-Ready+Applications;Modern+Web+Engineering+%7C+GenAI+%7C+Automation" alt="typing svg"/>
+**Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap" alt="Frontend" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CSE-Final%20Year-4C1D95?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Academic Badge"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Badge"/>
-  <img src="https://img.shields.io/badge/Full--Stack-Building-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Full Stack Badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Science-Portfolio-312E81?style=for-the-badge&logo=github&logoColor=white" alt="CS Badge"/>
+**Backend & Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis" alt="Backend" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-India-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge"/>
-  <a href="https://prasannadolas.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+**Cloud, DevOps & Tooling**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,figma" alt="DevOps" />
   </a>
-  <a href="https://www.linkedin.com/in/prasanna-dolas-a841211b1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:prasannadolas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://github.com/prasannadolas" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=prasannadolas&style=flat-square&color=8B5CF6" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/prasannadolas?label=Followers&style=flat-square&color=7C3AED&labelColor=111827" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Stars-Open%20Source-6366F1?style=flat-square&logo=github&logoColor=white" alt="Stars"/>
 </p>
 
 ---
 
-## About
-
-I am Prasanna Dolas, an AI and software developer focused on building scalable, production-ready products with clean architecture and measurable impact. My work sits at the intersection of software engineering, full-stack development, and applied AI, with a strong interest in LLM systems, retrieval-augmented generation, multi-agent workflows, and intelligent product experiences.
-
-I enjoy turning complex requirements into elegant systems that are fast, reliable, and easy to use. My engineering style is grounded in product thinking, pragmatic implementation, and a strong bias toward shipping useful software.
-
-### Open To
-- Full-time software engineering and AI engineering roles
-- Internships and product engineering opportunities
-- Open-source collaboration and impactful side projects
-
----
-
-## Tech Stack
-
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" />
-</p>
-
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nextjs" />
-</p>
-
-### Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,postgresql" />
-</p>
-
-### Cloud, DevOps & Tooling
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman,figma" />
-</p>
-
----
-
-## AI / ML Expertise
+## ✦ AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|---|---:|---|
-| LLM Applications | Advanced | Prompt orchestration, chat experiences, multimodal workflows, and practical AI product integration |
-| RAG Systems | Advanced | Context retrieval, knowledge-grounded generation, and scalable document-aware assistants |
-| Agentic Workflows | Advanced | Tool-using agents, multi-step automation, and workflow-driven AI systems |
-| Generative AI | Advanced | Text-to-image, content generation, and AI-assisted user experiences |
-| ML Foundations | Intermediate | Data preprocessing, model evaluation, supervised learning, and experimentation |
-| Real-Time Systems | Intermediate | Event-driven design, streaming pipelines, and scalable backend coordination |
+| :--- | :---: | :--- |
+| **Agentic Workflows** | Advanced | Autonomous agents using Google Agent Development Kit (ADK). |
+| **Large Language Models** | Advanced | API integration, prompt engineering, and fine-tuning with Google Gemini. |
+| **RAG Systems** | Intermediate | Retrieval-Augmented Generation for dynamic, context-aware AI applications. |
+| **Data Processing** | Intermediate | Python ecosystem (Pandas, NumPy) for parsing and restructuring datasets. |
 
 ---
 
-## Featured Projects
+## ✦ Featured Projects
 
 <details>
-<summary><b>IMA-GENR — AI Image Generation Platform</b></summary>
+<summary><b>1. Autonomous AI Course Creator</b> <i>(Click to expand)</i></summary>
+<br>
 
-A premium AI image generation platform designed around text-to-image generation and image-to-artstyle transformation. The system combines modern web UX with AI model orchestration, history tracking, theming, and production-ready product structure.
+An intelligent platform leveraging GenAI to autonomously generate comprehensive educational courses.
 
-| Field | Details |
-|---|---|
-| Stack | HTML, CSS, JavaScript, React, OpenAI API, Hugging Face API, Gemini 2.0 Flash, MySQL |
-| Scale | Multi-page platform with modular AI workflows and persistent user history |
-| Performance | Optimized UX for fast prompt submission, responsive rendering, and smooth interactions |
-| Security | API key isolation, structured environment configuration, and controlled data storage |
-| Impact | Demonstrates strong AI product engineering with both generative and conversational capabilities |
-| Repository | [GitHub Repository](https://github.com/prasannadolas/IMA-GENR) |
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | Python, Google ADK, Google Gemini API, HTML/CSS |
+| **Scale** | Capable of processing multi-module curriculum generation. |
+| **Performance** | Asynchronous API calls for high-speed content delivery. |
+| **Security** | Encrypted API key management and sanitized output rendering. |
+| **Impact** | Automates hundreds of hours of manual curriculum design. |
+| **Repository** | [View Source Code](https://github.com/prasannadolas) |
 
-Professional Explanation: This project reflects a full product mindset, combining AI generation, file-aware chat assistance, saved histories, and polished UI architecture into a unified portfolio-grade experience.
-
+**Professional Explanation:**
+Designed and implemented an agentic architecture utilizing the Google Agent Development Kit. The system interacts with the Gemini API to construct syllabi, draft lectures, and generate assessments autonomously, abstracting away complex prompt pipelines behind a seamless UI.
 </details>
 
 <details>
-<summary><b>Gemini 2.0 Flash Multi-Modal Chatbot</b></summary>
+<summary><b>2. Ghost Kitchen Management System</b> <i>(Click to expand)</i></summary>
+<br>
 
-A conversational AI system built to support image, text, and PDF inputs with theme toggling and interactive suggestion flows. It is designed as a practical assistant layer for real workflows rather than a simple demo chatbot.
+A full-stack digital storefront and order management platform for delivery-only restaurants.
 
-| Field | Details |
-|---|---|
-| Stack | Gemini API, JavaScript, HTML, CSS, file handling, theme management |
-| Scale | Multi-modal assistant with extensible prompt and input handling |
-| Performance | Lightweight client experience with responsive chat interaction |
-| Security | Controlled file ingestion and structured request flow |
-| Impact | Adds intelligent assistance to the portfolio ecosystem and strengthens AI product depth |
-| Repository | [GitHub Repository](https://github.com/prasannadolas/gemini-chatbot) |
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | React, Node.js, Express, MongoDB, Vercel |
+| **Scale** | Supports concurrent user sessions and real-time order tracking. |
+| **Performance** | Optimized API payload parsing and CDN edge caching. |
+| **Security** | JWT-based authentication and strict CORS policies. |
+| **Impact** | Streamlines operations for dark kitchens, improving order fulfillment speed. |
+| **Repository** | [View Vercel Deployment](https://ghost-kitchen-one.vercel.app/) |
 
-Professional Explanation: The focus here is on real utility—accepting varied inputs, keeping the UI clean, and making the assistant useful for knowledge extraction and workflow support.
-
+**Professional Explanation:**
+Engineered as my BSc IT final year project, this system centralizes digital operations. It features a responsive customer-facing menu and a robust backend administrative dashboard. Focus was placed on state management, RESTful API design, and achieving a robust CI/CD pipeline via Vercel.
 </details>
 
 <details>
-<summary><b>Real-Time Food Ordering & Delivery System with Apache Kafka</b></summary>
+<summary><b>3. Autonomous Logistics Vehicle (IoT)</b> <i>(Click to expand)</i></summary>
+<br>
 
-A systems-oriented project modeled around event-driven communication for ordering, delivery coordination, and asynchronous processing in a food-tech environment.
+Hardware-software integrated vehicle prototype for automated micro-logistics.
 
-| Field | Details |
-|---|---|
-| Stack | Apache Kafka, backend services, event-driven architecture, data flow design |
-| Scale | Real-time operational workflow with multiple actors and state transitions |
-| Performance | Decoupled communication for resilient, scalable processing |
-| Security | Service separation and controlled event exchange |
-| Impact | Demonstrates backend architecture thinking and real-time system design |
-| Repository | [GitHub Repository](https://github.com/prasannadolas/kafka-food-ordering-system) |
+| Metric | Detail |
+| :--- | :--- |
+| **Stack** | C++, NodeMCU, ESP8266, IoT Protocols |
+| **Scale** | Local network telemetries and multi-sensor processing. |
+| **Performance** | Low-latency instruction execution via microcontroller polling. |
+| **Security** | Secure local network handshakes. |
+| **Impact** | Demonstrates applied embedded systems in automated transport. |
+| **Repository** | [View Source Code](https://github.com/prasannadolas) |
 
-Professional Explanation: This project shows the ability to think like a backend engineer, mapping business operations into streams, events, and independent services.
-
+**Professional Explanation:**
+Developed the core control logic using C++ flashed onto NodeMCU/ESP8266 units. Integrated various sensors to enable environment mapping and autonomous movement, handling hardware-level interrupts and serial port communication protocols.
 </details>
 
 ---
 
-## Experience
+## ✦ Experience
 
-### AI Developer | Independent / Portfolio Projects
-**2024 — Present**
+**Software Developer (Independent Projects)**
+*Freelance & Academic Engineering*
+`Aug 2023 - Present`
 
-- Built AI-driven web applications focused on image generation, multimodal chat, and intelligent automation
-- Designed user-centered interfaces with clean interaction patterns and premium visual polish
-- Integrated external APIs and structured backend logic for production-style workflows
-- Shipped portfolio-ready systems with emphasis on scalability, usability, and maintainability
+> Led end-to-end development of multiple high-impact projects combining software engineering with AI and hardware integration.
 
-**Skills:** `AI Engineering` `Full Stack` `API Integration` `Product Thinking` `UI Engineering`
-
-### Technical Project Builder | Academic & Self-Led Engineering Work
-**2023 — Present**
-
-- Developed systems spanning front-end, back-end, and AI workflows
-- Explored real-time architecture patterns, data handling, and software design principles
-- Strengthened problem solving through hands-on implementation, debugging, and iteration
-- Focused on building practical solutions that mirror real product requirements
-
-**Skills:** `Software Engineering` `System Design` `Kafka` `Databases` `Problem Solving`
+*   **Scope of Work:**
+    *   Architected and deployed full-stack web applications using modern JavaScript frameworks (MERN stack).
+    *   Integrated Large Language Models (LLMs) into production environments to facilitate automated content generation.
+    *   Managed continuous deployment pipelines and optimized serverless hosting on Vercel.
+    *   Conducted rigorous hardware troubleshooting for IoT environments, interfacing ESP8266 with custom telemetry dashboards.
+*   **Skills:** `Full-Stack Development` `System Architecture` `API Integration` `Embedded IoT`
 
 ---
 
-## Achievements
+## ✦ Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|---|---|
-| AI Portfolio Builder | Delivered a polished AI-focused portfolio with multiple product-style projects |
-| Full-Stack Execution | Built and integrated front-end, backend, database, and AI layers in a single ecosystem |
-| Systems Thinking | Applied event-driven thinking to real-time workflow design using Kafka concepts |
-| Product Mindset | Focused on user experience, clarity, and practical utility in each project |
-| Learning Momentum | Continuously expanding depth across AI, web engineering, and scalable systems |
+| :--- | :--- |
+| 🎓 **BSc IT Graduation (2026)** | Graduated with a Bachelor of Science in Information Technology from Sathaye College, Mumbai University. |
+| 🏆 **Capstone Project Excellence** | Successfully defended the Ghost Kitchen Management System as a premier final year showcase. |
+| 🚀 **AI Innovation Integration** | Built the Autonomous AI Course Creator integrating cutting-edge Google Gemini API architectures. |
 
 </div>
 
 ---
 
-## Certifications
+## ✦ Certifications
 
-### AWS
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/AWS-Architecture-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Architecture"/>
-</p>
-
-- Cloud fundamentals and deployment concepts
-- Infrastructure-aware application thinking
-
-### Oracle
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Oracle-SQL-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
-</p>
-
-- Database concepts and relational design
-- SQL-driven application workflows
-
-### NPTEL
-<p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-Computer%20Science-4338CA?style=for-the-badge&logo=edx&logoColor=white" alt="NPTEL"/>
-  <img src="https://img.shields.io/badge/NPTEL-Algorithms-8B5CF6?style=for-the-badge&logo=edx&logoColor=white" alt="NPTEL Algorithms"/>
-</p>
-
-- Core CS concepts and structured learning
-- Strong theoretical foundation for engineering practice
-
-### Cisco
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-6366F1?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
-</p>
-
-- Networking fundamentals and topology design
-- Packet Tracer-based lab practice
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-8A2BE2?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-4B0082?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/NPTEL-Software%20Engineering-9370DB?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL" />
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-6A5ACD?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+</div>
 
 ---
 
-## Coding Profiles
+## ✦ Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/u/prasannadolas/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-PrasannaDolas-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/prasannadolas/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-PrasannaDolas-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://www.hackerrank.com/prasannadolas" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-PrasannaDolas-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.codechef.com/users/prasannadolas" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-PrasannaDolas-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-</p>
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Advanced%20Solver-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Structures-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5%20Star%20Coder-9370DB?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-6A5ACD?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</div>
 
 ---
 
-## GitHub Analytics
+## ✦ GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prasannadolas&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=prasannadolas&theme=tokyonight&hide_border=true&stroke=8B5CF6&ring=8B5CF6&fire=7C3AED&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=A5B4FC" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannadolas&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=E5E7EB&bg_color=0D1117" alt="Top Languages"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasannadolas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasannadolas&show_icons=true&bg_color=0D1117&title_color=8A2BE2&text_color=E6E6FA&icon_color=9370DB&border_color=4B0082" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannadolas&layout=compact&bg_color=0D1117&title_color=8A2BE2&text_color=E6E6FA&border_color=4B0082" height="195" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasannadolas&background=0D1117&ring=8A2BE2&fire=9370DB&currStreakLabel=E6E6FA&border=4B0082" alt="GitHub Streak" />
+</div>
 
 ---
 
-## Contribution Activity
+## ✦ GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannadolas&theme=tokyo-night&hide_border=true&area=true&area_color=8B5CF6&line=7C3AED&point=C4B5FD" alt="Contribution Activity Graph"/>
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prasannadolas/prasannadolas/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prasannadolas&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=6&no-bg=true" alt="Trophies" />
+</div>
 
 ---
 
-## Current Focus
+## ✦ Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannadolas&bg_color=0D1117&color=E6E6FA&line=8A2BE2&point=9370DB&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+## ✦ Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prasannadolas/prasannadolas/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
+## ✦ Current Focus
 
 ```yaml
-learning:
-  - Advanced LLM application design
-  - RAG architecture and retrieval quality
-  - Production-grade full-stack engineering
-  - Scalable event-driven systems
+profile:
+  name: "Prasanna Dolas"
+  role: "Software Engineer | AI & ML Specialist"
+  location: "Mumbai, India"
+  education: "BSc Information Technology (2026)"
 
-building:
-  - IMA-GENR, the AI image generation platform
-  - Gemini-powered multimodal assistant workflows
-  - Real-time systems with Kafka-inspired architecture
-  - Clean portfolio-grade product experiences
-
-exploring:
-  - Agentic workflows and orchestration
-  - AI UI/UX patterns for modern products
-  - Database-driven history and analytics
-  - Better deployment, observability, and maintainability
+status:
+  learning: 
+    - "Advanced Agentic Workflows"
+    - "Scalable Microservices Architectures"
+  building:
+    - "Enterprise-grade Full Stack Web Applications"
+    - "Autonomous AI Workflows"
+  exploring:
+    - "Distributed Systems"
+    - "Generative AI Application Environments"
 
 open_to:
-  - Software Engineering roles
-  - AI Engineering roles
-  - Full-Stack development opportunities
-  - Open-source collaboration
+  - "Full-Time Software Engineering Roles"
+  - "AI / ML Engineering Positions"
+  - "Open Source Collaborations"
