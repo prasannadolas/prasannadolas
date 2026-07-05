@@ -22,14 +22,13 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # THIS IS THE CHANGED SECTION: Custom orange colors added here!
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=orange&color_dots=#0D1117,#4b2c26,#7E4C44,#936159,#A7766E
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#A3A3A3&color_dots=#000000,#444444,#888888,#CCCCCC,#FFFFFF
             
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
