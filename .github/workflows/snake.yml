@@ -27,7 +27,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=#A3A3A3&color_dots=#000000,#444444,#888888,#CCCCCC,#FFFFFF
             dist/github-contribution-grid-snake-dark.svg?color_snake=#A3A3A3&color_dots=#000000,#444444,#888888,#CCCCCC,#FFFFFF
             
       - name: Push to output branch
