@@ -1,20 +1,19 @@
 <div align="center">
   <h2>Prasanna Dolas</h2>
-  <p><b>Engineering scalable solutions through intelligent systems and full-stack product development.</b></p>
+  <p><b>AI Developer | Software & Web Engineer | Building Scalable Applications | GenAI & Multi-Agent Workflows |</b></p>
 </div>
 
 <br>
 
 ## ◼️ About
 
-I am a Software Engineer and recent BSc Information Technology graduate (2026, Sathaye College, Mumbai University) with a profound focus on **Artificial Intelligence, Machine Learning, and Agentic Workflows**. I bridge the gap between complex AI models and user-facing applications by employing a product-engineering mindset. My expertise spans across full-stack development, distributed systems, and cutting-edge GenAI integrations, allowing me to build comprehensive, end-to-end digital experiences.
+I am a Software Engineer and 2026 BSc Information Technology graduate specializing at the intersection of **Artificial Intelligence, Machine Learning, and Full-Stack Web Engineering**. I am passionate about architecting scalable web platforms and supercharging them with intelligent, agentic workflows. By combining a robust product-engineering mindset with cutting-edge GenAI integrations, I build comprehensive, end-to-end digital experiences—from highly responsive frontend interfaces to autonomous backend systems.
 
-- **Current Focus:** Building autonomous AI systems using Google Agent Development Kit and Gemini API.
-- **Engineering Mindset:** Emphasizing code quality, architectural scalability, and zero-downtime deployments.
-- **Beyond Code:** Exploring film production, music creation (FL Studio), and digital storytelling, bringing creative problem-solving to software architecture.
+- **AI & ML Focus:** Developing autonomous AI systems and intelligent agents using Python, the Google Agent Development Kit, and the Gemini API.
+- **Web Engineering:** Building and deploying robust, full-stack web applications with modern frameworks, ensuring seamless and intuitive user experiences.
+- **Software Engineering:** Architecting scalable distributed systems, maintaining clean code principles, and focusing on zero-downtime deployments for high-performance, maintainable applications.
 
-> **Open To:** Full-time Software Engineering roles, AI/ML Engineering positions, and collaborative Open-Source projects.
-
+> **Open To:** Full-Stack Web Engineering roles, AI ML Developer positions,and collaborative Open-Source projects.
 <br>
 
 ---
@@ -52,8 +51,8 @@ I am a Software Engineer and recent BSc Information Technology graduate (2026, S
 ## ◼️ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasannadolas&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=222222" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannadolas&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&border_color=222222" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=prasannadolas&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=222222" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prasannadolas&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&border_color=222222" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
