@@ -1,99 +1,85 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=A7766E,936159,7E4C44&height=250&section=header&text=Prasanna%20Dolas&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Wave" />
+  <h2>Prasanna Dolas</h2>
+  <p><b>Engineering scalable solutions through intelligent systems and full-stack product development.</b></p>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C2938B&center=true&vCenter=true&width=800&lines=Web+Engineer+%7C+AI+Developer;Architecting+the+Web+%7C+Training+the+AI;Software+Developer+%7C+Systems+that+Think;Building+Intelligent+Digital+Products" alt="Typing SVG" />
-</div>
+<br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Education-BSc%20IT%20(2026)-A7766E?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Mumbai,%20India-936159?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
-</div>
-<br/>
-
-<div align="center">
-  <a href="https://prasannadolas.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-prasannadolas.vercel.app-C2938B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/prasanna-dolas-b872aa328/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-A7766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:prasannadolas2683@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-936159?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/prasannadolas"><img src="https://img.shields.io/badge/GitHub-Code%20Repositories-7E4C44?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
-<br/>
-
-
----
-
-## About
-
-> **Engineering scalable solutions through intelligent systems and full-stack product development.**
+## ◼️ About
 
 I am a Software Engineer and recent BSc Information Technology graduate (2026, Sathaye College, Mumbai University) with a profound focus on **Artificial Intelligence, Machine Learning, and Agentic Workflows**. I bridge the gap between complex AI models and user-facing applications by employing a product-engineering mindset. My expertise spans across full-stack development, distributed systems, and cutting-edge GenAI integrations, allowing me to build comprehensive, end-to-end digital experiences.
 
--  **Current Focus:** Building autonomous AI systems using Google Agent Development Kit and Gemini API.
--  **Engineering Mindset:** Emphasizing code quality, architectural scalability, and zero-downtime deployments.
--  **Beyond Code:** Exploring film production, music creation (FL Studio), and digital storytelling, bringing creative problem-solving to software architecture.
+- **Current Focus:** Building autonomous AI systems using Google Agent Development Kit and Gemini API.
+- **Engineering Mindset:** Emphasizing code quality, architectural scalability, and zero-downtime deployments.
+- **Beyond Code:** Exploring film production, music creation (FL Studio), and digital storytelling, bringing creative problem-solving to software architecture.
 
-**Open To:** Full-time Software Engineering roles, AI/ML Engineering positions, and collaborative Open-Source projects.
+> **Open To:** Full-time Software Engineering roles, AI/ML Engineering positions, and collaborative Open-Source projects.
 
----
-
-## Tech Stack
-
-**Languages**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css," alt="Languages" />
-  </a>
-</p>
-
-**Frontend**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" />
-  </a>
-</p>
-
-**Backend & Databases**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" alt="Backend" />
-  </a>
-</p>
-
-**Cloud, DevOps & Tooling**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,figma" alt="DevOps" />
-  </a>
-</p>
+<br>
 
 ---
 
-## GitHub Analytics
+<br>
+
+## ◼️ Tech Stack
+
+**Languages**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css&theme=dark" alt="Languages" />
+</a>
+
+**Frontend**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
+</a>
+
+**Backend & Databases**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=dark" alt="Backend" />
+</a>
+
+**Cloud, DevOps & Tooling**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,figma&theme=dark" alt="DevOps" />
+</a>
+
+<br>
+
+---
+
+<br>
+
+## ◼️ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasannadolas&show_icons=true&bg_color=0D1117&title_color=C2938B&text_color=F5EBE9&icon_color=A7766E&border_color=936159" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannadolas&layout=compact&bg_color=0D1117&title_color=C2938B&text_color=F5EBE9&border_color=936159" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasannadolas&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=222222" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannadolas&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=A3A3A3&border_color=222222" height="195" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasannadolas&background=0D1117&ring=A7766E&fire=C2938B&currStreakLabel=F5EBE9&border=936159" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasannadolas&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=A3A3A3&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=A3A3A3&dates=A3A3A3&border=222222" alt="GitHub Streak" />
 </div>
+
+<br>
 
 ---
 
-## Contribution Activity
+<br>
+
+## ◼️ Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannadolas&bg_color=0D1117&color=F5EBE9&line=A7766E&point=C2938B&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannadolas&bg_color=000000&color=A3A3A3&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
+
+<br>
 
 ---
 
-## Contribution Snake
+<br>
+
+## ◼️ Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/prasannadolas/prasannadolas/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
-
----
