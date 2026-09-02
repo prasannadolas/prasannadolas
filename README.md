@@ -65,16 +65,6 @@ I am a Software Engineer and 2026 BSc Information Technology graduate specializi
 
 <br>
 
-## ◼️ Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannadolas&bg_color=000000&color=A3A3A3&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
----
-
 <br>
 
 ## ◼️ Contribution Snake
